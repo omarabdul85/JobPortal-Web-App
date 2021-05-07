@@ -1,0 +1,1024 @@
+.mediaViewInfo {
+	--web-view-name: Quem somos;
+	--web-view-id: Quem_somos;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Quem_somos;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Quem_somos {
+	position: absolute;
+	width: 1920px;
+	height: 1500px;
+	background-color: rgba(245,245,245,1);
+	overflow: hidden;
+	--web-view-name: Quem somos;
+	--web-view-id: Quem_somos;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Grupo_369 {
+	position: absolute;
+	width: 3303px;
+	height: 3699px;
+	left: -331px;
+	top: -1477px;
+	overflow: visible;
+}
+#Elipse_25_ {
+	fill: url(#Elipse_25_);
+}
+.Elipse_25_ {
+	position: absolute;
+	overflow: visible;
+	width: 2833px;
+	height: 2814px;
+	left: 25px;
+	top: 885px;
+}
+#Elipse_27 {
+	fill: rgba(255,179,0,1);
+}
+.Elipse_27 {
+	position: absolute;
+	overflow: visible;
+	width: 3048px;
+	height: 3028px;
+	left: 255px;
+	top: 625px;
+}
+#Elipse_28 {
+	fill: rgba(232,186,4,1);
+}
+.Elipse_28 {
+	position: absolute;
+	overflow: visible;
+	width: 2451px;
+	height: 2435px;
+	left: 241px;
+	top: 900px;
+}
+#Elipse_26 {
+	fill: rgba(229,207,5,1);
+}
+.Elipse_26 {
+	position: absolute;
+	overflow: visible;
+	width: 2808px;
+	height: 2788px;
+	left: 133px;
+	top: 444px;
+}
+#Elipse_29 {
+	fill: rgba(157,156,149,1);
+}
+.Elipse_29 {
+	position: absolute;
+	overflow: visible;
+	width: 3168px;
+	height: 3145px;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_16 {
+	fill: rgba(220,220,220,1);
+}
+.Retngulo_16 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 984px;
+	left: 0px;
+	top: 120px;
+}
+#Dark___ComponentHeader_Label {
+	position: absolute;
+	width: 939.352px;
+	height: 189.352px;
+	left: 60px;
+	top: 24.649px;
+	display: none;
+	overflow: visible;
+}
+#Label_Left {
+	left: 0px;
+	top: 63.351px;
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(255,255,255,0.871);
+	letter-spacing: -0.08px;
+}
+#Label_Left_ {
+	left: 0px;
+	top: 35.351px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Roboto Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,0.871);
+	letter-spacing: -0.08333331108093261px;
+}
+#Divider {
+	opacity: 0.6;
+	fill: rgba(255,255,255,0.38);
+}
+.Divider {
+	position: absolute;
+	overflow: visible;
+	width: 904px;
+	height: 1px;
+	left: 0px;
+	top: 188.351px;
+}
+#ic_material_design_white_24dp {
+	position: absolute;
+	width: 22.055px;
+	height: 22.055px;
+	left: 917.297px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape {
+	fill: rgba(255,255,255,1);
+}
+.Shape {
+	overflow: visible;
+	position: absolute;
+	width: 22.055px;
+	height: 22.054px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Retngulo_7_be {
+	fill: url(#Retngulo_7_be);
+}
+.Retngulo_7_be {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_8 {
+	fill: rgba(210,210,210,1);
+}
+.Retngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 90px;
+	left: 0px;
+	top: 30px;
+}
+#Retngulo_10 {
+	fill: rgba(0,0,0,1);
+}
+.Retngulo_10 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 984px;
+	left: 0px;
+	top: 120px;
+}
+#Icon_zocial-email {
+	fill: rgba(255,255,255,1);
+}
+.Icon_zocial-email {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.729));
+	overflow: visible;
+	position: absolute;
+	width: 46.061px;
+	height: 36.942px;
+	left: 1208px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#contatotakinamaocom {
+	left: 1238px;
+	top: 3px;
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#ID1 {
+	position: absolute;
+	width: 70px;
+	height: 52px;
+	left: 460px;
+	top: 43px;
+	overflow: visible;
+}
+#Takinamao {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.89));
+	left: 530px;
+	top: 46px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ArtBrush;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#a_Soluo {
+	left: 567px;
+	top: 82px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Adobe Garamond Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#HOME {
+	left: 817px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	transition: all 0.1s ease-out;
+	--web-animation: fadein 0.1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(114,113,113,1);
+}
+#EMPREGOS {
+	left: 900px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	transition: all 0.1s ease-out;
+	--web-animation: fadein 0.1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Empregos.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(114,113,113,1);
+}
+#EMPREGADORES {
+	left: 1025px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	transition: all 0.1s ease-out;
+	--web-animation: fadein 0.1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Candidatos.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(114,113,113,1);
+}
+#Takinamao_bp {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.89));
+	left: 596px;
+	top: 1120px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ArtBrush;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Quem_somos_bq {
+	left: 594px;
+	top: 1161px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Para_que_servimos {
+	left: 882px;
+	top: 1161px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Recursos {
+	left: 1184px;
+	top: 1161px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Sobre_ns {
+	left: 594px;
+	top: 1193px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Contate-nos {
+	left: 594px;
+	top: 1221px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Candidatos {
+	left: 882px;
+	top: 1193px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	transition: all 0.1s ease-out;
+	--web-animation: fadein 0.1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Empregos.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Empregadores {
+	left: 882px;
+	top: 1221px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	transition: all 0.1s ease-out;
+	--web-animation: fadein 0.1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Candidatos.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Como_publicar_vagas {
+	left: 1184px;
+	top: 1193px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#formato-do-escritorio-tem-a-ve {
+	opacity: 0.49;
+	position: absolute;
+	width: 1920px;
+	height: 984px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+#Como_Anunciar_Publicidade {
+	left: 1184px;
+	top: 1221px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#CONTATO {
+	left: 1198px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	transition: all 0.1s ease-out;
+	--web-animation: fadein 0.1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Contato.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(114,113,113,1);
+}
+#ENTRAR {
+	left: 1315px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	transition: all 0.1s ease-out;
+	--web-animation: fadein 0.1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_candidato.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(114,113,113,1);
+}
+#QUEM_SOMOS {
+	left: 662px;
+	top: 191px;
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Takinamao_b {
+	left: 662px;
+	top: 303px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ArtBrush;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#_uma_empresa_de_marketing_digi {
+	left: 662px;
+	top: 330px;
+	position: absolute;
+	overflow: visible;
+	width: 598px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_377 {
+	position: absolute;
+	width: 431px;
+	height: 105px;
+	left: 710px;
+	top: 528px;
+	overflow: visible;
+}
+#Grupo_376 {
+	position: absolute;
+	width: 431px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Polgono_4 {
+	fill: rgba(255,255,255,1);
+}
+.Polgono_4 {
+	overflow: visible;
+	position: absolute;
+	width: 82px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polgono_5 {
+	fill: rgba(255,255,255,1);
+}
+.Polgono_5 {
+	overflow: visible;
+	position: absolute;
+	width: 82px;
+	height: 93px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,1059,540) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polgono_9 {
+	fill: rgba(136,68,0,1);
+}
+.Polgono_9 {
+	overflow: visible;
+	position: absolute;
+	width: 8.293px;
+	height: 3.02px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,867.8175,622.4898) rotate(-45deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_36 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_36 {
+	position: absolute;
+	overflow: visible;
+	width: 349px;
+	height: 83px;
+	left: 41px;
+	top: 12px;
+}
+#Polgono_6 {
+	fill: rgba(248,127,6,1);
+}
+.Polgono_6 {
+	overflow: visible;
+	position: absolute;
+	width: 84px;
+	height: 95px;
+	left: 76.18px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polgono_7 {
+	fill: rgba(248,127,6,1);
+}
+.Polgono_7 {
+	overflow: visible;
+	position: absolute;
+	width: 84px;
+	height: 95px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,828,533) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polgono_8 {
+	fill: rgba(151,78,5,1);
+}
+.Polgono_8 {
+	overflow: visible;
+	position: absolute;
+	width: 6px;
+	height: 7px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,909,533) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Linha_8 {
+	fill: transparent;
+	stroke: rgba(248,127,6,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_8 {
+	overflow: visible;
+	position: absolute;
+	width: 41.915px;
+	height: 93.403px;
+	left: 118.5px;
+	top: 5.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#MISSO {
+	left: 814px;
+	top: 571px;
+	position: absolute;
+	overflow: visible;
+	width: 72px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Adobe Caslon Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Trazer_visibilidade_a_nossos_c {
+	left: 926px;
+	top: 558px;
+	position: absolute;
+	overflow: visible;
+	width: 172px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(104,104,104,1);
+}
+#Grupo_378 {
+	position: absolute;
+	width: 431px;
+	height: 105px;
+	left: 709px;
+	top: 650px;
+	overflow: visible;
+}
+#Grupo_376_ci {
+	position: absolute;
+	width: 431px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Polgono_4_cj {
+	fill: rgba(255,255,255,1);
+}
+.Polgono_4_cj {
+	overflow: visible;
+	position: absolute;
+	width: 82px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polgono_5_ck {
+	fill: rgba(255,255,255,1);
+}
+.Polgono_5_ck {
+	overflow: visible;
+	position: absolute;
+	width: 82px;
+	height: 93px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,1059,540) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polgono_9_cl {
+	fill: rgba(12,4,83,1);
+}
+.Polgono_9_cl {
+	overflow: visible;
+	position: absolute;
+	width: 8.293px;
+	height: 3.02px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,867.8175,622.4898) rotate(-45deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_36_cm {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_36_cm {
+	position: absolute;
+	overflow: visible;
+	width: 349px;
+	height: 83px;
+	left: 41px;
+	top: 12px;
+}
+#Polgono_6_cn {
+	fill: rgba(20,4,165,1);
+}
+.Polgono_6_cn {
+	overflow: visible;
+	position: absolute;
+	width: 84px;
+	height: 95px;
+	left: 76.18px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polgono_7_co {
+	fill: rgba(20,4,165,1);
+}
+.Polgono_7_co {
+	overflow: visible;
+	position: absolute;
+	width: 84px;
+	height: 95px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,828,533) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polgono_8_cp {
+	fill: rgba(12,4,83,1);
+}
+.Polgono_8_cp {
+	overflow: visible;
+	position: absolute;
+	width: 6px;
+	height: 7px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,909,533) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Linha_8_cq {
+	fill: transparent;
+	stroke: rgba(20,4,165,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_8_cq {
+	overflow: visible;
+	position: absolute;
+	width: 41.915px;
+	height: 93.403px;
+	left: 118.5px;
+	top: 5.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_379 {
+	position: absolute;
+	width: 431px;
+	height: 105px;
+	left: 709px;
+	top: 771px;
+	overflow: visible;
+}
+#Grupo_376_cs {
+	position: absolute;
+	width: 431px;
+	height: 105px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Polgono_4_ct {
+	fill: rgba(255,255,255,1);
+}
+.Polgono_4_ct {
+	overflow: visible;
+	position: absolute;
+	width: 82px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polgono_5_cu {
+	fill: rgba(255,255,255,1);
+}
+.Polgono_5_cu {
+	overflow: visible;
+	position: absolute;
+	width: 82px;
+	height: 93px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,1059,540) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polgono_9_cv {
+	fill: rgba(99,18,2,1);
+}
+.Polgono_9_cv {
+	overflow: visible;
+	position: absolute;
+	width: 8.293px;
+	height: 3.02px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,867.8175,622.4898) rotate(-45deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_36_cw {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_36_cw {
+	position: absolute;
+	overflow: visible;
+	width: 349px;
+	height: 83px;
+	left: 41px;
+	top: 12px;
+}
+#Polgono_6_cx {
+	fill: rgba(199,38,5,1);
+}
+.Polgono_6_cx {
+	overflow: visible;
+	position: absolute;
+	width: 84px;
+	height: 95px;
+	left: 76.18px;
+	top: 5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Polgono_7_cy {
+	fill: rgba(199,38,5,1);
+}
+.Polgono_7_cy {
+	overflow: visible;
+	position: absolute;
+	width: 84px;
+	height: 95px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,828,533) rotate(180deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Polgono_8_cz {
+	fill: rgba(99,18,2,1);
+}
+.Polgono_8_cz {
+	overflow: visible;
+	position: absolute;
+	width: 6px;
+	height: 7px;
+	transform: translate(-710px, -528px) matrix(1,0,0,1,909,533) rotate(0deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Caminho_4 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(199,38,5,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Caminho_4 {
+	overflow: visible;
+	position: absolute;
+	width: 41.915px;
+	height: 93.403px;
+	left: 118.5px;
+	top: 5.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#VISO {
+	left: 821px;
+	top: 692px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Adobe Caslon Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#VALORES {
+	left: 812px;
+	top: 816px;
+	position: absolute;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Adobe Caslon Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Ser_um_grupo_competitivo_que_a {
+	left: 925px;
+	top: 675px;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(104,104,104,1);
+}
+#tica_Diversidade_Inovao_Respon {
+	left: 925px;
+	top: 810px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(104,104,104,1);
+}

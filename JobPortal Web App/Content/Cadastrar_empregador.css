@@ -1,0 +1,467 @@
+.mediaViewInfo {
+	--web-view-name: Cadastrar_empregador;
+	--web-view-id: Cadastrar_empregador;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Cadastrar_empregador;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Cadastrar_empregador {
+	position: absolute;
+	width: 1920px;
+	height: 1500px;
+	background-color: rgba(245,245,245,1);
+	overflow: hidden;
+	--web-view-name: Cadastrar_empregador;
+	--web-view-id: Cadastrar_empregador;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Grupo_369 {
+	position: absolute;
+	width: 3303px;
+	height: 3699px;
+	left: -331px;
+	top: -1477px;
+	overflow: visible;
+}
+#Elipse_25_z {
+	fill: url(#Elipse_25_z);
+}
+.Elipse_25_z {
+	position: absolute;
+	overflow: visible;
+	width: 2833px;
+	height: 2814px;
+	left: 25px;
+	top: 885px;
+}
+#Elipse_27 {
+	fill: rgba(255,179,0,1);
+}
+.Elipse_27 {
+	position: absolute;
+	overflow: visible;
+	width: 3048px;
+	height: 3028px;
+	left: 255px;
+	top: 625px;
+}
+#Elipse_28 {
+	fill: rgba(232,186,4,1);
+}
+.Elipse_28 {
+	position: absolute;
+	overflow: visible;
+	width: 2451px;
+	height: 2435px;
+	left: 241px;
+	top: 900px;
+}
+#Elipse_26 {
+	fill: rgba(229,207,5,1);
+}
+.Elipse_26 {
+	position: absolute;
+	overflow: visible;
+	width: 2808px;
+	height: 2788px;
+	left: 133px;
+	top: 444px;
+}
+#Elipse_29 {
+	fill: rgba(157,156,149,1);
+}
+.Elipse_29 {
+	position: absolute;
+	overflow: visible;
+	width: 3168px;
+	height: 3145px;
+	left: 0px;
+	top: 0px;
+}
+#Caminho_3 {
+	fill: rgba(220,220,220,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Caminho_3 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 1179.565px;
+	left: 0px;
+	top: 195.435px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dark___ComponentHeader_Label {
+	position: absolute;
+	width: 939.352px;
+	height: 189.352px;
+	left: 60px;
+	top: 24.649px;
+	display: none;
+	overflow: visible;
+}
+#Label_Left {
+	left: 0px;
+	top: 63.351px;
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(255,255,255,0.871);
+	letter-spacing: -0.08px;
+}
+#Label_Left_ {
+	left: 0px;
+	top: 35.351px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Roboto Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,0.871);
+	letter-spacing: -0.08333331108093261px;
+}
+#Divider {
+	opacity: 0.6;
+	fill: rgba(255,255,255,0.38);
+}
+.Divider {
+	position: absolute;
+	overflow: visible;
+	width: 904px;
+	height: 1px;
+	left: 0px;
+	top: 188.351px;
+}
+#ic_material_design_white_24dp {
+	position: absolute;
+	width: 22.055px;
+	height: 22.055px;
+	left: 917.297px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape {
+	fill: rgba(255,255,255,1);
+}
+.Shape {
+	overflow: visible;
+	position: absolute;
+	width: 22.054px;
+	height: 22.054px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Retngulo_7_bc {
+	fill: url(#Retngulo_7_bc);
+}
+.Retngulo_7_bc {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_8 {
+	fill: rgba(210,210,210,1);
+}
+.Retngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 90px;
+	left: 0px;
+	top: 30px;
+}
+#CADASTRAR {
+	left: 266px;
+	top: 140px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_370 {
+	position: absolute;
+	width: 1308px;
+	height: 724px;
+	left: 324px;
+	top: 372px;
+	overflow: visible;
+}
+#escritorio-de-coworking {
+	opacity: 0.53;
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.678));
+	position: absolute;
+	width: 792px;
+	height: 723px;
+	left: 0px;
+	top: 1px;
+	overflow: visible;
+}
+#Retngulo_20 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_20 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.612));
+	position: absolute;
+	overflow: visible;
+	width: 669px;
+	height: 742px;
+	left: 657px;
+	top: 0px;
+}
+#Retngulo_21 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_21 {
+	position: absolute;
+	overflow: visible;
+	width: 456px;
+	height: 724px;
+	left: 653px;
+	top: 0px;
+}
+#Linha_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_5 {
+	overflow: visible;
+	position: absolute;
+	width: 462px;
+	height: 1px;
+	left: 1050.5px;
+	top: 593.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Linha_6 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_6 {
+	overflow: visible;
+	position: absolute;
+	width: 462px;
+	height: 1px;
+	left: 1050.5px;
+	top: 675.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Linha_7 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_7 {
+	overflow: visible;
+	position: absolute;
+	width: 462px;
+	height: 1px;
+	left: 1050.5px;
+	top: 757.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Retngulo_30_bn {
+	fill: url(#Retngulo_30_bn);
+}
+.Retngulo_30_bn {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.439));
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	height: 81px;
+	left: 1122px;
+	top: 915px;
+}
+#CADASTRO_DE_EMPREGADOR {
+	left: 1119px;
+	top: 424px;
+	position: absolute;
+	overflow: visible;
+	width: 358px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(158,158,158,1);
+}
+#CADASTRAR_bp {
+	left: 1208px;
+	top: 928px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Nome {
+	left: 1051px;
+	top: 567px;
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(158,158,158,1);
+}
+#Email {
+	left: 1051px;
+	top: 649px;
+	position: absolute;
+	overflow: visible;
+	width: 46px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(158,158,158,1);
+}
+#Senha {
+	left: 1051px;
+	top: 731px;
+	position: absolute;
+	overflow: visible;
+	width: 51px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(158,158,158,1);
+}
+#icontogglecheck_box_24px {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1052px;
+	top: 826px;
+	overflow: visible;
+}
+#Boundary {
+	fill: transparent;
+}
+.Boundary {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#_Color {
+	fill: rgba(142,142,142,1);
+}
+._Color {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 3px;
+	top: 3px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Termos_de_uso {
+	left: 1076px;
+	top: 826px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(28,145,248,1);
+}
+#ENTRAR {
+	left: 1232px;
+	top: 993px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	transition: all 0.1s ease-out;
+	--web-animation: fadein 0.1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Login_empregador.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(172,172,172,1);
+}
