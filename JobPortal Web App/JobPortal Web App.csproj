@@ -210,6 +210,7 @@
     <Content Include="Content\Cadastrar_candidato.css" />
     <Content Include="Content\Cadastrar_empregador.css" />
     <Content Include="Content\Contato.css" />
+    <Content Include="Content\Empregos.css" />
     <Content Include="Content\Home.css" />
     <Content Include="Content\Login_candidato.css" />
     <Content Include="Content\Login_empregador.css" />

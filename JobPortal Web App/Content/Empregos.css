@@ -1,0 +1,1342 @@
+.mediaViewInfo {
+	--web-view-name: Empregos;
+	--web-view-id: Empregos;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Empregos;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Empregos {
+	position: absolute;
+	width: 1920px;
+	height: 1500px;
+	background-color: rgba(245,245,245,1);
+	overflow: hidden;
+	--web-view-name: Empregos;
+	--web-view-id: Empregos;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Elipse_25_y {
+	fill: url(#Elipse_25_y);
+}
+.Elipse_25_y {
+	position: absolute;
+	overflow: visible;
+	width: 2833px;
+	height: 2814px;
+	left: -324px;
+	top: -588px;
+}
+#Elipse_27 {
+	fill: rgba(255,179,0,1);
+}
+.Elipse_27 {
+	position: absolute;
+	overflow: visible;
+	width: 3048px;
+	height: 3028px;
+	left: -126px;
+	top: -851px;
+}
+#Elipse_28 {
+	fill: rgba(232,186,4,1);
+}
+.Elipse_28 {
+	position: absolute;
+	overflow: visible;
+	width: 2451px;
+	height: 2435px;
+	left: -237px;
+	top: -667px;
+}
+#Elipse_26 {
+	fill: rgba(229,207,5,1);
+}
+.Elipse_26 {
+	position: absolute;
+	overflow: visible;
+	width: 2808px;
+	height: 2788px;
+	left: -423px;
+	top: -1131px;
+}
+#Elipse_29 {
+	fill: rgba(157,156,149,1);
+}
+.Elipse_29 {
+	position: absolute;
+	overflow: visible;
+	width: 3168px;
+	height: 3145px;
+	left: -423px;
+	top: -1432px;
+}
+#Retngulo_16 {
+	fill: rgba(220,220,220,1);
+}
+.Retngulo_16 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 848px;
+	left: 0px;
+	top: 442px;
+}
+#Dark___ComponentHeader_Label {
+	position: absolute;
+	width: 939.352px;
+	height: 189.352px;
+	left: 60px;
+	top: 24.649px;
+	display: none;
+	overflow: visible;
+}
+#Label_Left {
+	left: 0px;
+	top: 63.351px;
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 48px;
+	color: rgba(255,255,255,0.871);
+	letter-spacing: -0.08px;
+}
+#Label_Left_ {
+	left: 0px;
+	top: 35.351px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	line-height: 20px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Roboto Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,0.871);
+	letter-spacing: -0.08333331108093261px;
+}
+#Divider {
+	opacity: 0.6;
+	fill: rgba(255,255,255,0.38);
+}
+.Divider {
+	position: absolute;
+	overflow: visible;
+	width: 904px;
+	height: 1px;
+	left: 0px;
+	top: 188.351px;
+}
+#ic_material_design_white_24dp {
+	position: absolute;
+	width: 22.055px;
+	height: 22.055px;
+	left: 917.297px;
+	top: 0px;
+	overflow: visible;
+}
+#Shape {
+	fill: rgba(255,255,255,1);
+}
+.Shape {
+	overflow: visible;
+	position: absolute;
+	width: 22.055px;
+	height: 22.054px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Retngulo_7_bb {
+	fill: url(#Retngulo_7_bb);
+}
+.Retngulo_7_bb {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_8 {
+	fill: rgba(210,210,210,1);
+}
+.Retngulo_8 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 90px;
+	left: 0px;
+	top: 30px;
+}
+#Retngulo_10 {
+	fill: rgba(0,0,0,1);
+}
+.Retngulo_10 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 241px;
+	left: 0px;
+	top: 120px;
+}
+#formato-do-escritorio-tem-a-ve {
+	opacity: 0.34;
+	position: absolute;
+	width: 1920px;
+	height: 241px;
+	left: 0px;
+	top: 120px;
+	overflow: visible;
+}
+#Icon_zocial-email {
+	fill: rgba(255,255,255,1);
+}
+.Icon_zocial-email {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.729));
+	overflow: visible;
+	position: absolute;
+	width: 46.061px;
+	height: 36.942px;
+	left: 1208px;
+	top: 6px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#contatotakinamaocom {
+	left: 1238px;
+	top: 3px;
+	position: absolute;
+	overflow: visible;
+	width: 207px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#ID1 {
+	position: absolute;
+	width: 70px;
+	height: 52px;
+	left: 460px;
+	top: 43px;
+	overflow: visible;
+}
+#Takinamao {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.89));
+	left: 530px;
+	top: 46px;
+	position: absolute;
+	overflow: visible;
+	width: 154px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ArtBrush;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#a_Soluo {
+	left: 567px;
+	top: 82px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Adobe Garamond Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Retngulo_11 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_11 {
+	position: absolute;
+	overflow: visible;
+	width: 436px;
+	height: 33px;
+	left: 495px;
+	top: 384px;
+}
+#Retngulo_12 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_12 {
+	position: absolute;
+	overflow: visible;
+	width: 436px;
+	height: 33px;
+	left: 943px;
+	top: 384px;
+}
+#Icon_awesome-search {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-search {
+	overflow: visible;
+	position: absolute;
+	width: 31.091px;
+	height: 33px;
+	left: 1391px;
+	top: 383.914px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Retngulo_13 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Retngulo_13 {
+	position: absolute;
+	overflow: visible;
+	width: 41px;
+	height: 33px;
+	left: 1386px;
+	top: 384px;
+}
+#Voc_merece_melhores_resultados {
+	opacity: 0.71;
+	left: 678px;
+	top: 204px;
+	position: absolute;
+	overflow: visible;
+	width: 565px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#HOME {
+	left: 817px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(114,113,113,1);
+}
+#EMPREGOS {
+	left: 900px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(114,113,113,1);
+}
+#CONTATO {
+	left: 1198px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(114,113,113,1);
+}
+#EMPREGADORES {
+	left: 1025px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	transition: all 0.1s ease-out;
+	--web-animation: fadein 0.1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Candidatos.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(114,113,113,1);
+}
+#Takinamao_bt {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.89));
+	left: 596px;
+	top: 1295px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: ArtBrush;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Quem_somos {
+	left: 594px;
+	top: 1336px;
+	position: absolute;
+	overflow: visible;
+	width: 123px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Para_que_servimos {
+	left: 882px;
+	top: 1336px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Recursos {
+	left: 1184px;
+	top: 1336px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Sobre_ns {
+	left: 594px;
+	top: 1368px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Contate-nos {
+	left: 594px;
+	top: 1396px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Candidatos {
+	left: 882px;
+	top: 1368px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Empregadores {
+	left: 882px;
+	top: 1396px;
+	position: absolute;
+	overflow: visible;
+	width: 107px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Como_publicar_vagas {
+	left: 1184px;
+	top: 1368px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Como_Anunciar_Publicidade {
+	left: 1184px;
+	top: 1396px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Cargo_empresa_ou_palavra-chave {
+	opacity: 0.45;
+	left: 502px;
+	top: 389px;
+	position: absolute;
+	overflow: visible;
+	width: 270px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Cidade_estado_ou_CEP {
+	opacity: 0.45;
+	left: 956px;
+	top: 389px;
+	position: absolute;
+	overflow: visible;
+	width: 182px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Grupo_339 {
+	position: absolute;
+	width: 752px;
+	height: 149px;
+	left: 584px;
+	top: 460px;
+	overflow: visible;
+}
+#Retngulo_19_b {
+	fill: url(#Retngulo_19_b);
+}
+.Retngulo_19_b {
+	position: absolute;
+	overflow: visible;
+	width: 752px;
+	height: 149px;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_18 {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_18 {
+	position: absolute;
+	overflow: visible;
+	width: 748px;
+	height: 145px;
+	left: 3px;
+	top: 0px;
+}
+#Linha_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 3;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_3 {
+	overflow: visible;
+	position: absolute;
+	width: 748.62px;
+	height: 1px;
+	left: 2.957px;
+	top: 30.84px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desenvolvimento_de_front-end {
+	left: 620px;
+	top: 496px;
+	position: absolute;
+	overflow: visible;
+	width: 372px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#_Marry_Perry_Paris_Empresa_de_ {
+	left: 618px;
+	top: 531px;
+	position: absolute;
+	overflow: visible;
+	width: 464px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,136,255,1);
+}
+#Ir_atuar_com_equipe_de_projeto {
+	left: 620px;
+	top: 552px;
+	position: absolute;
+	overflow: visible;
+	width: 565px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(157,156,149,1);
+}
+#btn_vervagas {
+	position: absolute;
+	width: 118px;
+	height: 146px;
+	left: 1218px;
+	top: 460px;
+	overflow: visible;
+}
+#Polgono_2_cf {
+	opacity: 0.89;
+	fill: url(#Polgono_2_cf);
+}
+.Polgono_2_cf {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 146px;
+	height: 118px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-14,14) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#VER_VAGA {
+	left: 28px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Elipse_30 {
+	fill: rgba(255,255,255,1);
+}
+.Elipse_30 {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 856px;
+	top: 1254px;
+}
+#Elipse_31 {
+	filter: blur(50px);
+	fill: rgba(255,255,255,1);
+}
+.Elipse_31 {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 883px;
+	top: 1254px;
+}
+#Elipse_32 {
+	filter: blur(50px);
+	fill: rgba(255,255,255,1);
+}
+.Elipse_32 {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 910px;
+	top: 1254px;
+}
+#Elipse_33 {
+	filter: blur(50px);
+	fill: rgba(255,255,255,1);
+}
+.Elipse_33 {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 937px;
+	top: 1254px;
+}
+#Elipse_34 {
+	filter: blur(50px);
+	fill: rgba(255,255,255,1);
+}
+.Elipse_34 {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 964px;
+	top: 1254px;
+}
+#Elipse_35 {
+	filter: blur(50px);
+	fill: rgba(255,255,255,1);
+}
+.Elipse_35 {
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	height: 15px;
+	left: 991px;
+	top: 1254px;
+}
+#Componente_109__1 {
+	opacity: 0.27;
+	position: absolute;
+	width: 114px;
+	height: 194px;
+	left: 1390px;
+	top: 750px;
+	overflow: visible;
+	transition: all 0.1s ease-out;
+	--web-animation: fadein 0.1s ease-out;
+	--web-action-type: page;
+	--web-action-target: Empregos_2.html;
+	cursor: pointer;
+}
+#Polgono_3 {
+	opacity: 0.39;
+	fill: rgba(138,138,138,1);
+}
+.Polgono_3 {
+	overflow: visible;
+	position: absolute;
+	width: 194px;
+	height: 114px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-40,40) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Grupo_343 {
+	position: absolute;
+	width: 752px;
+	height: 149px;
+	left: 584px;
+	top: 616px;
+	overflow: visible;
+}
+#Retngulo_19_cr {
+	fill: url(#Retngulo_19_cr);
+}
+.Retngulo_19_cr {
+	position: absolute;
+	overflow: visible;
+	width: 752px;
+	height: 149px;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_18_cs {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_18_cs {
+	position: absolute;
+	overflow: visible;
+	width: 748px;
+	height: 145px;
+	left: 3px;
+	top: 0px;
+}
+#Linha_3_ct {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 3;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_3_ct {
+	overflow: visible;
+	position: absolute;
+	width: 748.62px;
+	height: 1px;
+	left: 2.957px;
+	top: 30.84px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Faxineira {
+	left: 620px;
+	top: 652px;
+	position: absolute;
+	overflow: visible;
+	width: 110px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Huorkcom {
+	left: 618px;
+	top: 687px;
+	position: absolute;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,136,255,1);
+}
+#Transportadora_admite_Faxineir {
+	left: 620px;
+	top: 708px;
+	position: absolute;
+	overflow: visible;
+	width: 637px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(157,156,149,1);
+}
+#btn_vervagas_cx {
+	position: absolute;
+	width: 118px;
+	height: 146px;
+	left: 1218px;
+	top: 616px;
+	overflow: visible;
+}
+#Polgono_2_cz {
+	opacity: 0.89;
+	fill: url(#Polgono_2_cz);
+}
+.Polgono_2_cz {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 146px;
+	height: 118px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-14,14) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#VER_VAGA_c {
+	left: 28px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_344 {
+	position: absolute;
+	width: 752px;
+	height: 149px;
+	left: 584px;
+	top: 772px;
+	overflow: visible;
+}
+#Retngulo_19_da {
+	fill: url(#Retngulo_19_da);
+}
+.Retngulo_19_da {
+	position: absolute;
+	overflow: visible;
+	width: 752px;
+	height: 149px;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_18_c {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_18_c {
+	position: absolute;
+	overflow: visible;
+	width: 748px;
+	height: 145px;
+	left: 3px;
+	top: 0px;
+}
+#Linha_3_c {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 3;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_3_c {
+	overflow: visible;
+	position: absolute;
+	width: 748.62px;
+	height: 1px;
+	left: 2.957px;
+	top: 30.84px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Auxiliar_de_Limpeza {
+	left: 620px;
+	top: 808px;
+	position: absolute;
+	overflow: visible;
+	width: 236px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#Campinas__SP {
+	left: 618px;
+	top: 843px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,136,255,1);
+}
+#Ir_realizar_atividades_pertine {
+	left: 620px;
+	top: 864px;
+	position: absolute;
+	overflow: visible;
+	width: 457px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(157,156,149,1);
+}
+#btn_vervagas_c {
+	position: absolute;
+	width: 118px;
+	height: 144px;
+	left: 1218px;
+	top: 772px;
+	overflow: visible;
+}
+#Polgono_2_db {
+	opacity: 0.89;
+	fill: url(#Polgono_2_db);
+}
+.Polgono_2_db {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 144px;
+	height: 118px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-13,13) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#VER_VAGA_dc {
+	left: 28px;
+	top: 60px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_345 {
+	position: absolute;
+	width: 752px;
+	height: 149px;
+	left: 584px;
+	top: 928px;
+	overflow: visible;
+}
+#Retngulo_19_df {
+	fill: url(#Retngulo_19_df);
+}
+.Retngulo_19_df {
+	position: absolute;
+	overflow: visible;
+	width: 752px;
+	height: 149px;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_18_dg {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_18_dg {
+	position: absolute;
+	overflow: visible;
+	width: 748px;
+	height: 145px;
+	left: 3px;
+	top: 0px;
+}
+#Linha_3_dh {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 3;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_3_dh {
+	overflow: visible;
+	position: absolute;
+	width: 748.62px;
+	height: 1px;
+	left: 2.957px;
+	top: 30.84px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ajudante_Geral_-_Parque_Taquar {
+	left: 620px;
+	top: 964px;
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#guas_Claras_Distribuidora_de_g {
+	left: 618px;
+	top: 999px;
+	position: absolute;
+	overflow: visible;
+	width: 367px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,136,255,1);
+}
+#Atuar_em_entregas_em_domiclio_ {
+	left: 620px;
+	top: 1020px;
+	position: absolute;
+	overflow: visible;
+	width: 477px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(157,156,149,1);
+}
+#btn_vervagas_dl {
+	position: absolute;
+	width: 118px;
+	height: 145px;
+	left: 1218px;
+	top: 928px;
+	overflow: visible;
+}
+#Polgono_2_dn {
+	opacity: 0.89;
+	fill: url(#Polgono_2_dn);
+}
+.Polgono_2_dn {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 145px;
+	height: 118px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-13.5,13.5) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#VER_VAGA_do {
+	left: 28px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#Grupo_346 {
+	position: absolute;
+	width: 752px;
+	height: 149px;
+	left: 584px;
+	top: 1084px;
+	overflow: visible;
+}
+#Retngulo_19_dr {
+	fill: url(#Retngulo_19_dr);
+}
+.Retngulo_19_dr {
+	position: absolute;
+	overflow: visible;
+	width: 752px;
+	height: 149px;
+	left: 0px;
+	top: 0px;
+}
+#Retngulo_18_ds {
+	fill: rgba(255,255,255,1);
+}
+.Retngulo_18_ds {
+	position: absolute;
+	overflow: visible;
+	width: 748px;
+	height: 145px;
+	left: 3px;
+	top: 0px;
+}
+#Linha_3_dt {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-dasharray: 3;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linha_3_dt {
+	overflow: visible;
+	position: absolute;
+	width: 748.62px;
+	height: 1px;
+	left: 2.957px;
+	top: 30.84px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Aux_de_LojaAjudante_Geral {
+	left: 620px;
+	top: 1120px;
+	position: absolute;
+	overflow: visible;
+	width: 342px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+#OPENBOX2 {
+	left: 618px;
+	top: 1155px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(0,136,255,1);
+}
+#Arrumao_separao_e_organizao_do {
+	left: 620px;
+	top: 1176px;
+	position: absolute;
+	overflow: visible;
+	width: 430px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(157,156,149,1);
+}
+#btn_vervagas_dx {
+	position: absolute;
+	width: 118px;
+	height: 146px;
+	left: 1218px;
+	top: 1084px;
+	overflow: visible;
+}
+#Polgono_2_dz {
+	opacity: 0.89;
+	fill: url(#Polgono_2_dz);
+}
+.Polgono_2_dz {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	overflow: visible;
+	position: absolute;
+	width: 146px;
+	height: 118px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,-14,14) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#VER_VAGA_d {
+	left: 28px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(255,255,255,1);
+}
+#ENTRAR {
+	left: 1315px;
+	top: 61px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Adobe Arabic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(114,113,113,1);
+}
